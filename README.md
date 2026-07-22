@@ -205,12 +205,4 @@ It combines retrieval systems with Large Language Models
 to generate context-aware and accurate responses.
 ```
 
-
-
-
-
-https://github.com/alobroke
-
----
-
 ## ⭐ If you found this project useful, consider giving it a star!
