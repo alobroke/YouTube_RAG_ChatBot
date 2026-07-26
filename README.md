@@ -205,4 +205,5 @@ It combines retrieval systems with Large Language Models
 to generate context-aware and accurate responses.
 ```
 
-## ⭐ If you found this project useful, consider giving it a star!
+This is intentionally focused on the fundamentals so that anyone starting their AI journey can understand how RAG works before diving into more advanced concepts.
+🔗 Read the full article here: [https://lnkd.in/dawAvDpZ](https://medium.com/@anujbharat28/build-your-ai-rag-architecture-in-5-minutes-dc1975ead25c)
