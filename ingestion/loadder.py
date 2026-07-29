@@ -10,7 +10,7 @@ def youtube_load(video_id):
     transcript = YoutubeLoader(video_id="o126p1QN_RI",language=["en"])
     docs = transcript.load()
     
-    return docs
+     return docs
 
     
 
